@@ -20,4 +20,4 @@ The solution is implemented in Python using Selenium and Chrome DevTools Protoco
 
 ---
 
-## File Structure
+
